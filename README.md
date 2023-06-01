@@ -5,6 +5,10 @@ This repo holds code written to complete technical-interview-type coding challen
 ## easy
 [sum_even_numbers](https://github.com/jpow18/python-interview-prep/blob/main/python/sum_even_numbers.py)
 
+[find_unique_elements](https://github.com/jpow18/python-interview-prep/blob/main/python/find_unique_elements.py)
+
+[calculate_mean](https://github.com/jpow18/python-interview-prep/blob/main/python/calculate_mean.py)
+
 ## medium
 
 
