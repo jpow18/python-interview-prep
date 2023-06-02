@@ -9,6 +9,8 @@ This repo holds code written to complete technical-interview-type coding challen
 
 [calculate_mean](https://github.com/jpow18/python-interview-prep/blob/main/python/calculate_mean.py)
 
+[calculate_average](https://github.com/jpow18/python-interview-prep/blob/main/python/calculate_average.py)
+
 ## medium
 
 
