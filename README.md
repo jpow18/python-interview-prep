@@ -12,6 +12,6 @@ This repo holds code written to complete technical-interview-type coding challen
 [calculate_average](https://github.com/jpow18/python-interview-prep/blob/main/python/calculate_average.py)
 
 ## medium
-
+[find_longest_substring](https://github.com/jpow18/python-interview-prep/blob/main/python/find_longest_substring.py)
 
 ## hard
